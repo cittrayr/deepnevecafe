@@ -20,15 +20,15 @@
     "name": "Caffe Mocha",
     "price": 4.8,
     "description": "Kopi coklat dengan susu dan whipped cream.",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mocaccino-Coffee.jpg/320px-Mocaccino-Coffee.jpg",
-    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mocaccino-Coffee.jpg/320px-Mocaccino-Coffee.jpg"
+    "thumbnail": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.everyday-delicious.com%2Fwp-content%2Fuploads%2F2021%2F05%2Fcaffee-mocha-kawa-mokka-everyday-delicious-1-1197x1800.jpg&tbnid=R3uToLx37GqFxM&vet=1&imgrefurl=https%3A%2F%2Fwww.everyday-delicious.com%2Fcaffe-mocha-recipe%2F&docid=2LxybA7irsUL9M&w=1197&h=1800&source=sh%2Fx%2Fim%2Fm1%2F1&kgs=0f7db938ee130a96&shem=abme%2Ctrie",
+    "poster": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.everyday-delicious.com%2Fwp-content%2Fuploads%2F2021%2F05%2Fcaffee-mocha-kawa-mokka-everyday-delicious-1-1197x1800.jpg&tbnid=R3uToLx37GqFxM&vet=1&imgrefurl=https%3A%2F%2Fwww.everyday-delicious.com%2Fcaffe-mocha-recipe%2F&docid=2LxybA7irsUL9M&w=1197&h=1800&source=sh%2Fx%2Fim%2Fm1%2F1&kgs=0f7db938ee130a96&shem=abme%2Ctrie"
   },
   {
     "id": "4",
     "name": "Caramel Macchiato",
     "price": 5.0,
     "description": "Kopi dengan karamel, susu dan busa.",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Caramel_macchiato_at_Caff%C3%A8_Artigiano.jpg/320px-Caramel_macchiato_at_Caff%C3%A8_Artigiano.jpg",
-    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Caramel_macchiato_at_Caff%C3%A8_Artigiano.jpg/320px-Caramel_macchiato_at_Caff%C3%A8_Artigiano.jpg"
+    "thumbnail": "https://images.app.goo.gl/aK26PRYVcX9wtMFK8",
+    "poster": "https://images.app.goo.gl/aK26PRYVcX9wtMFK8"
   }
 ]
